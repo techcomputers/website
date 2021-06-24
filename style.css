@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.navheader {
+    background-color: #222222;
+    height: 70px;
+    width: 100%;
+}
+
+.home {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 100px;
+    padding-top: 24px;
+    float: right;
+    text-decoration: none;
+}
+
+.home:hover {
+    color: #7e7e7e;
+    transition-duration: 0.7s;
+}
+
+.contact {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 50px;
+    padding-top: 24px;
+    float: right;
+    text-decoration: none;
+}
+
+.contact:hover {
+    color: #7e7e7e;
+    transition-duration: 0.7s;
+}
+
+.navtitle {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 24px;
+    float: left;
+    text-decoration: none;
+}
